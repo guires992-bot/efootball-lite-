@@ -1,0 +1,6 @@
+{
+  "name": "eFOOTBALL ARENA | Plateforme e-Sport & Académie Indépendante",
+  "description": "Plateforme communautaire indépendante consacrée au jeu eFootball. Constructeur d'équipe, guide des joueurs, académie tactique et tournois compétitifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
